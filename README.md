@@ -18,4 +18,4 @@ ThanOS: An automated disk manager for linux
 '''
 
 ### About ThanOS
-Checkout our ![devpost](https://devpost.com/software/thanos)
+Checkout our [devpost](https://devpost.com/software/thanos)
