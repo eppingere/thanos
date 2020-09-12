@@ -1,1 +1,1 @@
-nohup ./thanos_utils.sh &
+nohup bash thanos_utils.sh &
