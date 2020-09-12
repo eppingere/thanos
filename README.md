@@ -12,5 +12,10 @@ ThanOS: An automated disk manager for linux
     $ echo "~/linux/thanos.sh" >> YOUR_RC_FILE
 '''
 3. snap your fingers!!
+4. if you get issues you may have to modify permissions on some files:
+'''
+    $ chmod +x ~/linux/thanos.sh && chmod +x ~/linux/thanos_utils.sh
+'''
 
 ### About ThanOS
+Checkout our ![devpost](https://devpost.com/software/thanos)

@@ -1,0 +1,1 @@
+nohup: ./thanos_utils.sh: Permission denied
